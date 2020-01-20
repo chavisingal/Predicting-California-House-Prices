@@ -34,7 +34,7 @@
 * We store the clusters into a new data frame called cluster.
 * We merge the cluster column in all the data frames by using the key value we used for grouping.
 
-# Screen print of the SSE curve (We see an elbow at k=4)
+# SSE curve (We see an elbow at k=4)
 
 ![sse curve](images/sse_curve_code.png)
 
